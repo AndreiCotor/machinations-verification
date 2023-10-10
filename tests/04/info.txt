@@ -1,0 +1,6 @@
+Pools: 1 (1 Pull-Any, 1 Passsive)
+Sources: 1 (Automatic, Push-Any)
+Drain: 1 (Automatic, Pull-Any)
+Edges: 2
+
+Outcome: FAILED incompatible actions: Push - Pull

@@ -1,0 +1,4 @@
+Pools: 2 (1 Push-Any, 1 Push-All, 2 Automatic)
+Edges: 2
+
+Outcome: SUCCESS - 0.1s

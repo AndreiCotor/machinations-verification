@@ -1,0 +1,6 @@
+Pools: 1 (1 Pull-Any, 1 Automatic)
+Sources: 1 (Passive, Pull-Any)
+Drain: 1 (Automatic, Pull-Any)
+Edges: 2
+
+Outcome: SUCCESS - 0.1s

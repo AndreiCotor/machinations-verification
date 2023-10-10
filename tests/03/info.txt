@@ -1,0 +1,5 @@
+Pools: 4 (4 Pull-Any, 4 Automatic)
+Sources: 1 (Passive, Pulls-Any)
+Edges: 5
+
+Outcome: SUCCESS - 0.1s

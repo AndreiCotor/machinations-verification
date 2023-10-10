@@ -1,0 +1,7 @@
+Pools: 3 (2 Push-All, 1 Push-Any, 2 Automatic, 1 Passive)
+Source: 3 (3 Push-any, 3 Automatic)
+Drain: 2 
+Edges: 5
+Conditional Edges: 2
+
+Outcome: FAILED - Conditional edge can't point to an Automatic Source
