@@ -1,0 +1,6 @@
+Pools: 3 (2 Push-Any, 1 Pull-Any , 3 Automatic)
+Source: 1 (1 Push-All, 1 Automatic)
+Edges: 3
+
+Outcome: FAILED - Probability on edge must be between 0 and 100
+                - Incompatible actions: Push-Pull

@@ -1,0 +1,6 @@
+Pools: 4 (3 Push-Any, 1 Push-All , 1 Passive, 3 Automatic)
+Source: 2 (1 Pull-any, 1 Push-All, 1 Passive, 1 Automatic)
+Edges: 5
+Conditional Edges: 1
+
+Outcome: SUCCESS
