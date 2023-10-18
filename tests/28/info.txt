@@ -1,0 +1,5 @@
+Pools: 3 (2 Pull-Any, 1 Automatic)
+Sources: 1 (Push-Any, Automatic)
+Edges: 4
+
+Outcome: FAILED incompatible actions: Push - Pull

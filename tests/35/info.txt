@@ -1,0 +1,6 @@
+Pools: 2 (2 Push-All, 2 Automatic)
+Source: 2 (2 Push-any, 2 Automatic)
+Drain: 1 
+Edges: 4
+
+Outcome: FAILED - Edge cannot exit a Drain
