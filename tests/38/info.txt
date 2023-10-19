@@ -1,0 +1,5 @@
+Pools: 2 (2 Push-Any 2 Passive)
+Source: 1 (1 Push-any, 1 Passive)
+Edges: 2
+
+Outcome: FAILED - Edge cannot enter a Source

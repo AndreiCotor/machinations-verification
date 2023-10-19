@@ -14,4 +14,8 @@ e3 = Edge(n4, n5, 100, 1);
 e4 = Edge(n5, n2, 100, 50);
 
 
-five_steps;
+one_step;
+one_step;
+one_step;
+one_step;
+one_step;

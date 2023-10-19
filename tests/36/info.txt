@@ -1,0 +1,7 @@
+Pools: 2 (2 Push-Any 2 Automatic)
+Source: 1 (1 PushAny, 1 Passive)
+Drain: 1 (Pull-Any Automatic)
+Edges: 3
+Conditional Edges: 2
+
+Outcome: FAILED - probability of edge must be between 0 and 100

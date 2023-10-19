@@ -1,0 +1,6 @@
+Pools: 5 (2 Push-Any, 2 Pull-Any, 1 Passive)
+Source: 3 (1 Push-any, 1 Pull-Any, 1 Passive)
+Edges: 6
+
+Outcome: FAILED - Incompatible action: Push-Pull
+                  Incompatible action: Pull-Push
